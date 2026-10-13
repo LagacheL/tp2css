@@ -1,0 +1,46 @@
+div{
+    background-color: greenyellow;
+    float: left;
+}
+
+#MenuHaut{
+    width: 100%;
+    background-color: rgb(0, 204, 255);
+    height: 25px;
+    text-align: center;
+}
+
+#SousMenuA{
+    background-color: goldenrod;
+    width: 100%;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+
+#Corps{
+    width: 100%;
+}
+
+.DivLongue{
+    width: 100%;
+}
+
+#SousMenuA{
+    background-color: rgb(255, 200, 2);
+    width: 100%;
+    height: 300px;
+    float: left;
+    align-items: center;
+    text-align: center;
+
+}
+
+#foot{
+    width: 100%;
+    background-color: rgb(52, 255, 153);
+    height: 25px;
+    text-align: center;
+    align-items: center;
+}
+
